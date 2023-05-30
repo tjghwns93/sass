@@ -36,4 +36,6 @@
 * Partials의 파일명은 _로 시작하며
 * 불러들일 때는 @import '파일명' 이 때 파일명에 _는 포함시키지 않고, 확장명도 포함시키지 않는다.
 
-scss는 _로 시작하는 파일은 컴파일하지 않는다
+※ scss는 _로 시작하는 파일은 컴파일하지 않는다.
+
+![image](https://github.com/tjghwns93/sass/assets/129016977/7760578a-c96a-4af4-a4d3-eb0b56c3f68e)

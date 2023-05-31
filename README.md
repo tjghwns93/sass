@@ -39,3 +39,17 @@
 ※ scss는 _로 시작하는 파일은 컴파일하지 않는다.
 
 ![image](https://github.com/tjghwns93/sass/assets/129016977/7760578a-c96a-4af4-a4d3-eb0b56c3f68e)
+
+# @import --변수가 중복정용될 때 아래의 것이 적용.
+
+# @use -- 이름이 같은 변수가 있을 때 에러발생
+
+![image](https://github.com/tjghwns93/sass/assets/129016977/9238bb75-bcf9-4fae-8932-94c215f9dccb)
+
+# as 뒤에 별명을 붙여서 사용할 수 있다.
+
+![image](https://github.com/tjghwns93/sass/assets/129016977/ee10cd55-e859-4e4d-a049-7eb36404555f)
+
+# @forward는 파샬을 묶어줌 style.scss에서는 _index.scss를 호출하여 사용함
+![image](https://github.com/tjghwns93/sass/assets/129016977/e4a7afe9-e881-4a30-ad96-a82aafe55d94)
+

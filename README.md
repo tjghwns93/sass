@@ -58,3 +58,11 @@
 
 # 전역변수와 지역변수
 ![image](https://github.com/tjghwns93/sass/assets/129016977/127a11c1-d718-4178-9b47-b980e95e3d55)
+
+# 보간법
+![image](https://github.com/tjghwns93/sass/assets/129016977/682ce765-44c5-491f-a327-58a253230a47)
+
+# nesting(네스팅)--품다
+
+# 함수
+![image](https://github.com/tjghwns93/sass/assets/129016977/c0a41ff5-e6ea-4ac8-b0d2-b1fd916acae9)

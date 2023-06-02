@@ -55,3 +55,6 @@
 
 # *(와일드카드)를 붙이면 생략할 수 있다. 🧢
 ![image](https://github.com/tjghwns93/sass/assets/129016977/bd652619-5481-4404-a7ec-f71ce3af908a)
+
+# 전역변수와 지역변수
+![image](https://github.com/tjghwns93/sass/assets/129016977/127a11c1-d718-4178-9b47-b980e95e3d55)

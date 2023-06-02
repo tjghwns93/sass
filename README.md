@@ -68,4 +68,6 @@
 ![image](https://github.com/tjghwns93/sass/assets/129016977/c0a41ff5-e6ea-4ac8-b0d2-b1fd916acae9)
 ![image](https://github.com/tjghwns93/sass/assets/129016977/f64a5bdc-1814-4126-ba67-e10129466591)
 
+# @extend
+![image](https://github.com/tjghwns93/sass/assets/129016977/839192e4-e073-4a0f-a2a3-c52b4c7cbdcb)
 
